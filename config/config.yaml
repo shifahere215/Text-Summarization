@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  dataset_name: knkarthick/samsum
+  splits:
+    train: train
+    validation: validation
+    test: test
+  save_local: true   # Optional: if you want to save locally for caching or inspection

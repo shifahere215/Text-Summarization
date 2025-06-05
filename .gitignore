@@ -43,3 +43,4 @@ ENV/
 # Output folders
 dist/
 build/
+artifacts/*
